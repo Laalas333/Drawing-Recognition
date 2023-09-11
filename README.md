@@ -1,1 +1,1 @@
-Have to collect the data.
+Draw on the canvas
